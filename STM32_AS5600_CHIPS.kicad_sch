@@ -4480,7 +4480,7 @@
 	)
 	(text "USB\n"
 		(exclude_from_sim no)
-		(at 226.568 67.056 0)
+		(at 216.662 67.056 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9079,7 +9079,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10k"
 			(at 82.55 184.1499 0)
 			(effects
 				(font
